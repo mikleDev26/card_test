@@ -1,0 +1,16 @@
+{
+    "cardName": "Chase Ink Plus",
+    "cardImage": "https://i.imgur.com/VAf1nL7.gif",
+    "barMax": 15000,
+    "barPaid": 8225,
+    "balance": 6775,
+    "nextPayment": 291,
+    "lastPayment": 275,
+    "nextPayment": "0031-03-01T00:00:00-08:00",
+    "paymentMade": true,
+    "interest": {
+        "apr": 20.99,
+        "interestPaid": 125,
+        "principal": 150
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "cardName": "Barclay Arrival+",
+    "cardImage": "https://i.imgur.com/EBM9Rap.gif",
+    "barMax": 12000,
+    "barPaid": 6887,
+    "balance": 5113,
+    "nextPayment": 250,
+    "lastPayment": 250,
+    "nextPayment": "0031-03-01T00:00:00-08:00",
+    "paymentMade": false,
+    "interest": {
+        "apr": 21.99,
+        "interestPaid": 120,
+        "principal": 130
+    }
+}

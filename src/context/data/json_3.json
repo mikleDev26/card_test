@@ -1,0 +1,16 @@
+{
+    "cardName": "Amex Gold",
+    "cardImage": "https://i.imgur.com/KnBzrTU.gif",
+    "barMax": 10000,
+    "barPaid": 1000,
+    "balance": 9000,
+    "nextPayment": 525,
+    "lastPayment": 525,
+    "nextPayment": "0031-03-01T00:00:00-08:00",
+    "paymentMade": false,
+    "interest": {
+        "apr": 19.99,
+        "interestPaid": 425,
+        "principal": 100
+    }
+}
